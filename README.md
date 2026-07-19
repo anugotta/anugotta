@@ -4,7 +4,7 @@ I am a **Systems Platform Engineer & Technical Lead** with 13+ years of professi
 
 ### 🛠️ Core Tech Stack & Toolkit
 * **Languages:** Rust, Python, Kotlin, Java, Dart, C/C++ (Basics)
-* **Frameworks & Platforms:** Tokio (Async Rust), Android SDK, Flutter, Linux OS Internals
+* **Frameworks & Platforms:** Async Rust Ecosystem, Android SDK, Flutter, Linux OS Internals
 * **Systems Domain:** Core Tooling Architecture, Hardware Telemetry, Concurrency, Performance Benchmarking, AI Agent Skills
 
 ### 🚀 What I'm Focused On Right Now
