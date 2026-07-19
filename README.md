@@ -3,7 +3,7 @@
 I am a **Systems Platform Engineer & Technical Lead** with 13+ years of professional experience across Big Tech environments and startup lifecycles. I specialize in building performance-critical developer platforms, high-throughput CLI toolchains, and autonomous AI-native infrastructure.
 
 ### 🛠️ Core Tech Stack & Toolkit
-* **Languages:** Rust, Python, Kotlin, Java, Dart, C/C++ (Basics)
+* **Languages:** Rust, Python, Kotlin, Java, Dart
 * **Frameworks & Platforms:** Async Rust Ecosystem, Android SDK, Flutter, Linux OS Internals
 * **Systems Domain:** Core Tooling Architecture, Hardware Telemetry, Concurrency, Performance Benchmarking, AI Agent Skills
 
